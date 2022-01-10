@@ -40,4 +40,4 @@ I'm a {backend, frontend} developer full stack:
 ![Emanuel Borges](https://github-readme-stats.vercel.app/api/top-langs/?username=emanueleborges)
 
 ## Heroku
-![Emanuel Borges](https://github-readme-streak-stats.herokuapp.com/?user={emanuelborges})
+![Emanuel Borges](https://github-readme-streak-stats.herokuapp.com/?user={emanuel.eborges@gmail.com})
