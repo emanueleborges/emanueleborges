@@ -5,9 +5,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=emanuel.eborges@gmail.com)](emanuel.eborges@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=5592999771376)](5592999771376)
 
-## Sites Development
-- [ComprasManaus](https://compras.manaus.am.gov.br/) 
-- [ContratosManaus](https://contratos.manaus.am.gov.br/) 
+## Sites Development by Emanuel Borges
+- [ComprasManaus](https://compras.manaus.am.gov.br/) https://compras.manaus.am.gov.br
+- [ContratosManaus](https://contratos.manaus.am.gov.br/) https://contratos.manaus.am.gov.br
 
 ## About me
 I'm a {backend, frontend} developer full stack:
