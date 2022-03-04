@@ -11,7 +11,7 @@ I have been fascinated by computing since I was a child and currently I have ded
 - [ContratosManaus](https://contratos.manaus.am.gov.br/) https://contratos.manaus.am.gov.br
 
 ## About me
-I'm a {backend, frontend} developer full stack:
+Technologies I am currently studying:
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
