@@ -6,11 +6,11 @@ I have been fascinated by computing since I was a child and currently I have ded
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&emanuel.eborges@gmail.com)](emanuel.eborges@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=5592999771376)](5592999771376)
 
-## Sites Development by Emanuel Borges
+## Sites Development by Emanuel Borges 2015 -2021
 - [ComprasManaus](https://compras.manaus.am.gov.br/) https://compras.manaus.am.gov.br
 - [ContratosManaus](https://contratos.manaus.am.gov.br/) https://contratos.manaus.am.gov.br
 
-## Technologies I am currently studying:
+## Technologies I am currently studying 2022:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
@@ -31,8 +31,6 @@ I have been fascinated by computing since I was a child and currently I have ded
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Node Js](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 
-
-## Courses 
 [![CodeAcademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)]()
 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
