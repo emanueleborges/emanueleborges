@@ -8,9 +8,9 @@ I have been fascinated by computing since I was a child and currently I have ded
 - [ComprasManaus](https://compras.manaus.am.gov.br/) https://compras.manaus.am.gov.br
 - [ContratosManaus](https://contratos.manaus.am.gov.br/) https://contratos.manaus.am.gov.br
 
-## Projeto Final de Conclusão de Curso/Treinamento - 2022 - Eldorado Tech Training 2º edição
-- [Insituto Eldorado](https://app-eldorado.herokuapp.com/) https://app-eldorado.herokuapp.com Backend 
-- [Insituto Eldorado](http://eldorado-angular.herokuapp.com/) http://eldorado-angular.herokuapp.com Frontend 
+## Projeto Final de Conclusão de Curso/Treinamento - 2022 - Eldorado Tech Training 2º edição  
+- [Backend](https://app-eldorado.herokuapp.com/) https://app-eldorado.herokuapp.com - Backend: Node js, Mysql, Jwt, Bcript, Sequelize
+- [Frontend](http://eldorado-angular.herokuapp.com/) http://eldorado-angular.herokuapp.com - Frontend: Angular, Bootstrap 
 
 
 ## Technologies I am currently studying 2022:
