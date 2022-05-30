@@ -45,7 +45,4 @@ I have been fascinated by computing since I was a child and currently I have ded
 ## Vercel
 ![Emanuel Borges](https://github-readme-stats.vercel.app/api/top-langs/?username=emanueleborges)
 
-## Heroku
-
-![Emanuel Borges](https://github-readme-streak-stats.herokuapp.com/?user={emanuel.eborges@gmail.com})
 
