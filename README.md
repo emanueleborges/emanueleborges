@@ -42,7 +42,3 @@ I have been fascinated by computing since I was a child and currently I have ded
 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
 
-## Vercel
-![Emanuel Borges](https://github-readme-stats.vercel.app/api/top-langs/?username=emanueleborges)
-
-
