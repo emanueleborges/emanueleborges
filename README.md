@@ -8,12 +8,10 @@ I have been fascinated by computing since I was a child and currently I have ded
 - [ComprasManaus](https://compras.manaus.am.gov.br/) https://compras.manaus.am.gov.br
 - [ContratosManaus](https://contratos.manaus.am.gov.br/) https://contratos.manaus.am.gov.br
 
-
 ## Projeto Final - 2022 - FPF Tech 
-- [Backend](https://backfrontend.herokuapp.com) - https://backfrontend.herokuapp.com - Backend: Node js, Sequelize, Clean Code, 
-- [Frontend](https://fpffrontend.herokuapp.com) - https://fpffrontend.herokuapp.com - Frontend: Angular
-- [Frontend] e [Backend] https://github.com/emanueleborges/fpftech-projetofinal
-
+- [Backend](https://backfrontend.herokuapp.com) - Backend: Node js, Sequelize, Clean Code, 
+- [Frontend](https://fpffrontend.herokuapp.com) - Frontend: Angular
+- [Frontend] e [Backend] httpgit@github.com:emanueleborges/fpftech-projetofinal.git)
 
 ## Projeto Final de Conclusão de Curso/Treinamento - 2022 - Eldorado Tech Training 2º edição  
 - [Backend](https://app-eldorado.herokuapp.com/) https://app-eldorado.herokuapp.com - Backend: Node js, Mysql, Jwt, Bcript, Sequelize
@@ -22,7 +20,6 @@ I have been fascinated by computing since I was a child and currently I have ded
 
 ## Skyline
 - [Skyline](https://skyline.github.com/emanueleborges/2021) https://skyline.github.com/emanueleborges/2021 
-
 
 ## Technologies I am currently studying 2022:
 
