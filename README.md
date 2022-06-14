@@ -10,8 +10,8 @@ I have been fascinated by computing since I was a child and currently I have ded
 
 
 ## Projeto Final - 2022 - FPF Tech 
-- [Backend](https://backfrontend.herokuapp.com) - Backend: Node js, Sequelize, Clean Code, 
-- [Frontend](https://fpffrontend.herokuapp.com) - Frontend: Angular
+- [Backend](https://backfrontend.herokuapp.com) - https://backfrontend.herokuapp.com - Backend: Node js, Sequelize, Clean Code, 
+- [Frontend](https://fpffrontend.herokuapp.com) - https://fpffrontend.herokuapp.com) - Frontend: Angular
 - [Frontend] e [Backend] https://github.com/emanueleborges/fpftech-projetofinal
 
 
