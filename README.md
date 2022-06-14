@@ -12,7 +12,7 @@ I have been fascinated by computing since I was a child and currently I have ded
 ## Projeto Final - 2022 - FPF Tech 
 - [Backend](https://backfrontend.herokuapp.com) - Backend: Node js, Sequelize, Clean Code, 
 - [Frontend](https://fpffrontend.herokuapp.com) - Frontend: Angular
-- [Frontend] e [Backend](git@github.com:emanueleborges/fpftech-projetofinal.git)
+- [Frontend] e [Backend] https://github.com/emanueleborges/fpftech-projetofinal
 
 
 ## Projeto Final de Conclusão de Curso/Treinamento - 2022 - Eldorado Tech Training 2º edição  
