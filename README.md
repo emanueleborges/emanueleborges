@@ -8,7 +8,7 @@ I have been fascinated by computing since I was a child and currently I have ded
 - [ComprasManaus](https://compras.manaus.am.gov.br/) https://compras.manaus.am.gov.br
 - [ContratosManaus](https://contratos.manaus.am.gov.br/) https://contratos.manaus.am.gov.br
 
-## Pojetos 2022 
+## Projetos
 
 # Projeto Final - 2022 - FPF Tech 
 - [Backend](https://backfrontend.herokuapp.com) - https://backfrontend.herokuapp.com - Backend: Node js, Sequelize, Clean Code, 
