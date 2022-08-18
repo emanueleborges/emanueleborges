@@ -5,17 +5,21 @@ I have been fascinated by computing since I was a child and currently I have ded
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-melo-borges)](https://www.linkedin.com/in/emanuel-melo-borges)
 
 ## Sites Development by Emanuel Borges 2015 -2021
+
 - [ComprasManaus](https://compras.manaus.am.gov.br/) https://compras.manaus.am.gov.br
 - [ContratosManaus](https://contratos.manaus.am.gov.br/) https://contratos.manaus.am.gov.br
 
 ## Projetos
 
+# Projeto - 2022 - Nest js Api Rest
+- [Backend] (https://api-nest-back.herokuapp.com) - https://github.com/emanueleborges/desafio-nestjs - Backend: Nest js
+
 # Projeto - 2022 - Api Rest
-- [Frontend] Vue.js - https://github.com/emanueleborges/vue-crud-api
+- [Frontend] () - https://github.com/emanueleborges/vue-crud-api - Frontend: Vue js
 
 # Projeto Final - 2022 - Api Rest - FPF Tech 
-- [Backend](https://backfrontend.herokuapp.com) - https://backfrontend.herokuapp.com - Backend: Node js, Sequelize, Clean Code, 
-- [Frontend](https://fpffrontend.herokuapp.com) - https://fpffrontend.herokuapp.com - Frontend: Angular
+- [Backend] (https://backfrontend.herokuapp.com) - https://backfrontend.herokuapp.com - Backend: Node js, Sequelize, Clean Code, 
+- [Frontend] (https://fpffrontend.herokuapp.com) - https://fpffrontend.herokuapp.com - Frontend: Angular
 - [Frontend] e [Backend] (http://github.com/emanueleborges/fpftech-projetofinal) http://github.com/emanueleborges/fpftech-projetofinal
 
 # Projeto Final de Conclusão de Curso/Treinamento - 2022 - Api Rest - Eldorado Tech Training 2º edição  
