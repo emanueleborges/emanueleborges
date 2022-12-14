@@ -20,12 +20,12 @@ I have been fascinated by computing since I was a child and currently I have ded
 # Projeto Final - 2022 - Api Rest - FPF Tech 
 - [Backend] -  Node js, Sequelize, Clean Code, 
 - [Frontend] - Frontend: Angular
-- [Frontend] e [Backend] (http://github.com/emanueleborges/fpftech-projetofinal) http://github.com/emanueleborges/fpftech-projetofinal
+- [Frontend] e [Backend] http://github.com/emanueleborges/fpftech-projetofinal
 
 # Projeto Final de Conclusão de Curso/Treinamento - 2022 - Api Rest - Eldorado Tech Training 2º edição  
 - [Backend] - Node js, Mysql, Jwt, Bcript, Sequelize
 - [Frontend] - Angular, Bootstrap 
-- [Frontend] e [Backend] (https://github.com/emanueleborges/eldorado-projetofinal) https://github.com/emanueleborges/eldorado-projetofinal
+- [Frontend] e [Backend] https://github.com/emanueleborges/eldorado-projetofinal
 
 ## Skyline
 - [Skyline](https://skyline.github.com/emanueleborges/2021) https://skyline.github.com/emanueleborges/2021 
