@@ -18,13 +18,13 @@ I have been fascinated by computing since I was a child and currently I have ded
 - [Frontend] () - https://github.com/emanueleborges/vue-crud-api - Frontend: Vue js
 
 # Projeto Final - 2022 - Api Rest - FPF Tech 
-- [Backend] - https://backfrontend.herokuapp.com - Backend: Node js, Sequelize, Clean Code, 
-- [Frontend] - https://fpffrontend.herokuapp.com - Frontend: Angular
+- [Backend] -  Node js, Sequelize, Clean Code, 
+- [Frontend] - Frontend: Angular
 - [Frontend] e [Backend] (http://github.com/emanueleborges/fpftech-projetofinal) http://github.com/emanueleborges/fpftech-projetofinal
 
 # Projeto Final de Conclusão de Curso/Treinamento - 2022 - Api Rest - Eldorado Tech Training 2º edição  
-- [Backend] - https://app-eldorado.herokuapp.com - Backend: Node js, Mysql, Jwt, Bcript, Sequelize
-- [Frontend] - https://eldorado-angular.herokuapp.com - Frontend: Angular, Bootstrap 
+- [Backend] - Node js, Mysql, Jwt, Bcript, Sequelize
+- [Frontend] - Angular, Bootstrap 
 - [Frontend] e [Backend] (https://github.com/emanueleborges/eldorado-projetofinal) https://github.com/emanueleborges/eldorado-projetofinal
 
 ## Skyline
