@@ -10,6 +10,13 @@ I have been fascinated by computing since I was a child and currently I have ded
 - [ContratosManaus](https://contratos.manaus.am.gov.br/) https://contratos.manaus.am.gov.br
 
 ## Projetos
+# Projeto - 2023 - Java Springboot Api Rest
+- [Backend] - https://github.com/emanueleborges/cielo2 - Backend: Java Springboot
+
+# Projeto - 2023 - React
+- [Frontend] () - https://github.com/emanueleborges/cielo2 - Frontend: React js
+
+
 
 # Projeto - 2022 - Nest js Api Rest
 - [Backend] - https://github.com/emanueleborges/desafio-nestjs - Backend: Nest js
