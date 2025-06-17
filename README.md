@@ -11,8 +11,11 @@ I have been fascinated by computing since I was a child and currently I have ded
 
 ## Projetos
 
-# Projeto - 2025 - Java Springboot Api Rest
-- [Backend] - https://github.com/emanueleborges/springboot-crud-advanced - Backend: Java Springboot
+# Projeto - 2025 - Kotlin Desktop  
+- [Backend] - https://github.com/emanueleborges/kotlin-desktop
+   
+# Projeto - 2025 - Kotlin Backend
+- [Backend] - https://github.com/emanueleborges/kotlin-backend 
 
 # Projeto - 2023 - Java Springboot Api Rest
 - [Backend] - https://github.com/emanueleborges/cielo2 - Backend: Java Springboot
