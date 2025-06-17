@@ -1,5 +1,5 @@
-## Hi, I'm Emanuel Borges!
-I have been fascinated by computing since I was a child and currently I have dedicated myself to becoming a fullstack dev, studying new technologies such as Node js, Typscript, ApiRest and working in the area of Systems Development
+## My Page Emanuel Borges!
+The only thing standing between you and success is continuous progress
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/emanueleborges)](https://github.com/emanueleborges)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-borges)](https://www.linkedin.com/in/emanuel-borges)
