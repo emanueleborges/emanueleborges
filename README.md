@@ -13,7 +13,7 @@ The only thing standing between you and success is continuous progress.
 ## Projetos
 
 # Projeto - 2025 - Kotlin Desktop  
-- [Backend] - https://github.com/emanueleborges/kotlin-frontend
+- [Backend] - https://github.com/emanueleborges/kotlin-desktop
    
 # Projeto - 2025 - Kotlin Backend
 - [Backend] - https://github.com/emanueleborges/kotlin-backend 
