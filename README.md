@@ -1,4 +1,4 @@
-## My Page Emanuel Borges!
+## Portifólio Emanuel Borges!
 <img src="emanuel.jpeg" alt="Foto de Emanuel Borges" style="width: 200px; border-radius: 100px;">
 ## 📬 Contato
 
