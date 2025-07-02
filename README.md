@@ -1,4 +1,64 @@
 ## My Page Emanuel Borges!
+<img src="emanuel.jpeg" alt="Foto de Emanuel Borges" style="width: 200px; border-radius: 100px;">
+## 📬 Contato
+
+- 📧 Email: emanuel.eborges@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/emanuel-melo-borges](https://www.linkedin.com/in/emanuel-melo-borges/)
+- 💻 GitHub: [github.com/emanueleborges](https://github.com/emanueleborges/)
+
+## 🔧 Habilidades Técnicas
+
+- **Backend:** Node.js, NestJS, PHP, Java Spring Boot
+- **Frontend:** React.js, Vue.js, Angular
+- **Banco de Dados:** PostgreSQL, MySQL, Oracle, MongoDB
+- **DevOps / Cloud:** Docker, Kubernetes, AWS, GCP, Serverless, GitLab CI/CD
+- **Testes:** Jest, SonarQube
+- **Arquitetura:** Clean Code, Clean Architecture, Microserviços
+
+## 💼 Experiência Profissional
+
+### Desenvolvedor Full Stack — INDT
+**Abril de 2023 - atual**
+- Tecnologias: Node.js, NestJS, React, AWS, PostgreSQL, Serverless, Clean Architecture
+
+### Desenvolvedor Full Stack — ICCT
+**Julho de 2021 - Abril de 2023**
+- Tecnologias: PHP 5.6, Laravel, Java Spring Boot, Vue, React, Docker, Oracle
+
+### Analista de Sistemas — Prefeitura de Manaus
+**Agosto de 2015 - Julho de 2021**
+- Sistemas de contratos e licitação
+- Tecnologias: PHP 5.6, Oracle, ASP Classic
+
+
+
+## 🧠 Formação Acadêmica
+
+- Pós-graduação (em andamento) — Machine Learning Engineering, FIAP
+- Pós-graduação — Aplicativos Móveis Multiplataforma, Descomplica
+- Graduação — Análise de Sistemas, FUCAPI
+
+---
+
+## 🚀 Projetos em Destaque
+
+### [Deskmedia Worker](https://github.com/emanueleborges/dump)
+Sistema de banners em Electron com controle por pipes e otimização para máquinas de baixo desempenho.
+
+### [API Rest Node CRUD](https://github.com/emanueleborges/api_rest_node_mysql_crud)
+CRUD completo usando Node.js, Express e MySQL com boas práticas.
+
+### [Vue CRUD API](https://github.com/emanueleborges/vue-crud-api)
+Sistema Vue + Node com integração total e arquitetura limpa.
+
+## 📜 Certificações
+
+- [Cisco: Introduction to Cybersecurity](https://www.credly.com/users/emanuel-borges.51c0be2d)
+- Linux Foundation: Introduction to Node.js
+- Certiprof: Scrum Foundation, Remote Work, Cybersecurity Awareness
+- Fullcycle: Docker, GitOps, Kubernetes, RabbitMQ
+- Alura: TypeScript, Oracle SQL, NestJS, CI/CD, React, Vue3
+
 The only thing standing between you and success is continuous progress. 
 
 
