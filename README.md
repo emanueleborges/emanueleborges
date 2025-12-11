@@ -5,7 +5,7 @@
 - 📧 Email: emanuel.eborges@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/emanuel-melo-borges](https://www.linkedin.com/in/emanuel-melo-borges/)
 - 💻 GitHub: [github.com/emanueleborges](https://github.com/emanueleborges/)
-
+- 💼 Credly: https://www.credly.com/users/emanuel-borges.51c0be2d/skills
 ## 🔧 Habilidades Técnicas
 
 - **Backend:** Node.js, NestJS, PHP, Java Spring Boot
