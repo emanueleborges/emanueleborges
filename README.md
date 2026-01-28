@@ -72,6 +72,10 @@ The only thing standing between you and success is continuous progress.
 
 ## Projetos
 
+# Porjeto - 2026 - NestJs Redis Kafka  
+  Products API (NestJS + TypeORM + Redis + Kafka) com Rate Limiting (Limitação de Requisições)
+- https://github.com/emanueleborges/nest_typeorm_postgres_redis_kafka
+
 # Projeto - 2025 - Kotlin Desktop  
 - [Backend] - https://github.com/emanueleborges/kotlin-desktop
    
