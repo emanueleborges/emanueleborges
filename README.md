@@ -31,7 +31,6 @@
 - Tecnologias: PHP 5.6, Oracle, ASP Classic
 
 
-
 ## 🧠 Formação Acadêmica
 
 - Pós-graduação (em andamento) — Machine Learning Engineering, FIAP
@@ -73,9 +72,6 @@
 - [Backend] - Node js, Mysql, Jwt, Bcript, Sequelize
 - [Frontend] - Angular, Bootstrap 
 - [Frontend] e [Backend] https://github.com/emanueleborges/eldorado-projetofinal
-
-# [Deskmedia Worker](https://github.com/emanueleborges/dump)
-Sistema de banners em Electron com controle por pipes e otimização para máquinas de baixo desempenho.
 
 # [API Rest Node CRUD](https://github.com/emanueleborges/api_rest_node_mysql_crud)
 CRUD completo usando Node.js, Express e MySQL com boas práticas.
