@@ -42,39 +42,9 @@
 
 ## 🚀 Projetos em Destaque
 
-### [Deskmedia Worker](https://github.com/emanueleborges/dump)
-Sistema de banners em Electron com controle por pipes e otimização para máquinas de baixo desempenho.
-
-### [API Rest Node CRUD](https://github.com/emanueleborges/api_rest_node_mysql_crud)
-CRUD completo usando Node.js, Express e MySQL com boas práticas.
-
-### [Vue CRUD API](https://github.com/emanueleborges/vue-crud-api)
-Sistema Vue + Node com integração total e arquitetura limpa.
-
-## 📜 Certificações
-
-- [Cisco: Introduction to Cybersecurity](https://www.credly.com/users/emanuel-borges.51c0be2d)
-- Linux Foundation: Introduction to Node.js
-- Certiprof: Scrum Foundation, Remote Work, Cybersecurity Awareness
-- Fullcycle: Docker, GitOps, Kubernetes, RabbitMQ
-- Alura: TypeScript, Oracle SQL, NestJS, CI/CD, React, Vue3
-
-The only thing standing between you and success is continuous progress. 
-
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/emanueleborges)](https://github.com/emanueleborges)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-borges)](https://www.linkedin.com/in/emanuel-borges)
-
-## Sites Development by Emanuel Borges from 2015
-
-- [ComprasManaus](https://compras.manaus.am.gov.br/) https://compras.manaus.am.gov.br
-- [ContratosManaus](https://contratos.manaus.am.gov.br/) https://contratos.manaus.am.gov.br
-
-## Projetos
-
-# Porjeto - 2026 - NestJs Redis Kafka  
+# Projeto - 2026 - NestJs Redis Kafka  
   Products API (NestJS + TypeORM + Redis + Kafka) com Rate Limiting (Limitação de Requisições)
-- https://github.com/emanueleborges/nest_typeorm_postgres_redis_kafka
+- [Backend] - https://github.com/emanueleborges/nest_typeorm_postgres_redis_kafka
 
 # Projeto - 2025 - Kotlin Desktop  
 - [Backend] - https://github.com/emanueleborges/kotlin-desktop
@@ -103,6 +73,36 @@ The only thing standing between you and success is continuous progress.
 - [Backend] - Node js, Mysql, Jwt, Bcript, Sequelize
 - [Frontend] - Angular, Bootstrap 
 - [Frontend] e [Backend] https://github.com/emanueleborges/eldorado-projetofinal
+
+# [Deskmedia Worker](https://github.com/emanueleborges/dump)
+Sistema de banners em Electron com controle por pipes e otimização para máquinas de baixo desempenho.
+
+# [API Rest Node CRUD](https://github.com/emanueleborges/api_rest_node_mysql_crud)
+CRUD completo usando Node.js, Express e MySQL com boas práticas.
+
+### [Vue CRUD API](https://github.com/emanueleborges/vue-crud-api)
+Sistema Vue + Node com integração total e arquitetura limpa.
+
+
+## 📜 Certificações
+
+- [Cisco: Introduction to Cybersecurity](https://www.credly.com/users/emanuel-borges.51c0be2d)
+- Linux Foundation: Introduction to Node.js
+- Certiprof: Scrum Foundation, Remote Work, Cybersecurity Awareness
+- Fullcycle: Docker, GitOps, Kubernetes, RabbitMQ
+- Alura: TypeScript, Oracle SQL, NestJS, CI/CD, React, Vue3
+
+The only thing standing between you and success is continuous progress. 
+
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/emanueleborges)](https://github.com/emanueleborges)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-borges)](https://www.linkedin.com/in/emanuel-borges)
+
+## Sites Development by Emanuel Borges from 2015
+
+- [ComprasManaus](https://compras.manaus.am.gov.br/) https://compras.manaus.am.gov.br
+- [ContratosManaus](https://contratos.manaus.am.gov.br/) https://contratos.manaus.am.gov.br
+
 
 ## Skyline
 - [Skyline](https://skyline.github.com/emanueleborges/2021) https://skyline.github.com/emanueleborges/2021 
