@@ -16,12 +16,10 @@
 - **Arquitetura:** Clean Code, Clean Architecture, Microserviços
 
 ## 🧠 Formação Acadêmica
-- Pós-graduação (em andamento , conclusao 2026) — NLP - Natural Language Processing, UFG - Goiais
-- Pós-graduação (em andamento , conclusao 2026) — Machine Learning Engineering, FIAP
-- Pós-graduação — Aplicativos Móveis Multiplataforma, Descomplica  - Formado em 2025.
-- Graduação — Análise de Sistemas, FUCAPI - Formado em 2010.
-
----
+- Pós-graduação — NLP - Natural Language Processing, UFG - Goias. Conclusão 2026.
+- Pós-graduação — Machine Learning Engineering, FIAP - São Paulo. Conclusão 2026.
+- Pós-graduação — Aplicativos Móveis Multiplataforma, Descomplica. Concluido.
+- Graduação — Análise de Sistemas, FUCAPI. Concluido
 
 ## 🚀 Projetos em Destaque
 
