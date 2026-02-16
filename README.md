@@ -15,27 +15,11 @@
 - **Testes:** Jest, SonarQube
 - **Arquitetura:** Clean Code, Clean Architecture, Microserviços
 
-## 💼 Experiência Profissional
-
-### Desenvolvedor Full Stack — INDT
-**Abril de 2023 - atual**
-- Tecnologias: Node.js, NestJS, React, AWS, PostgreSQL, Serverless, Clean Architecture
-
-### Desenvolvedor Full Stack — ICCT
-**Julho de 2021 - Abril de 2023**
-- Tecnologias: PHP 5.6, Laravel, Java Spring Boot, Vue, React, Docker, Oracle
-
-### Analista de Sistemas — Prefeitura de Manaus
-**Agosto de 2015 - Julho de 2021**
-- Sistemas de contratos e licitação
-- Tecnologias: PHP 5.6, Oracle, ASP Classic
-
-
 ## 🧠 Formação Acadêmica
-
-- Pós-graduação (em andamento) — Machine Learning Engineering, FIAP
+- Pós-graduação (em andamento , conclusao 2026) — NLP - Natural Language Processing, UFG - Goiais
+- Pós-graduação (em andamento , conclusao 2026) — Machine Learning Engineering, FIAP
 - Pós-graduação — Aplicativos Móveis Multiplataforma, Descomplica
-- Graduação — Análise de Sistemas, FUCAPI
+- Graduação — Análise de Sistemas, FUCAPI - Formado em 2010.
 
 ---
 
