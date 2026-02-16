@@ -18,7 +18,7 @@
 ## 🧠 Formação Acadêmica
 - Pós-graduação (em andamento , conclusao 2026) — NLP - Natural Language Processing, UFG - Goiais
 - Pós-graduação (em andamento , conclusao 2026) — Machine Learning Engineering, FIAP
-- Pós-graduação — Aplicativos Móveis Multiplataforma, Descomplica
+- Pós-graduação — Aplicativos Móveis Multiplataforma, Descomplica  - Formado em 2025.
 - Graduação — Análise de Sistemas, FUCAPI - Formado em 2010.
 
 ---
