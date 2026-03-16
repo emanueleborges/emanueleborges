@@ -8,12 +8,13 @@
 - 💼 Credly: https://www.credly.com/users/emanuel-borges.51c0be2d/skills
 ## 🔧 Habilidades Técnicas
 
-- **Backend:** Node.js, NestJS, PHP, Java Spring Boot
+- **Backend:** Node.js, NestJS, PHP, Java Spring Boot, Kotlin
 - **Frontend:** React.js, Vue.js, Angular
-- **Banco de Dados:** PostgreSQL, MySQL, Oracle, MongoDB
+- **Banco de Dados:** Oracle (Trigger, functions, view, view materializada, indices, tunning ), PostgreSQL, MySQL, MongoDB
 - **DevOps / Cloud:** Docker, Kubernetes, AWS, GCP, Serverless, GitLab CI/CD
-- **Testes:** Jest, SonarQube
+- **Testes:** Jest, SonarQube, Test
 - **Arquitetura:** Clean Code, Clean Architecture, Microserviços
+  **Mobile:** React Native, Kotlin
 
 ## 🧠 Formação Acadêmica
 - Pós-graduação — NLP - Natural Language Processing, UFG - Goias. Conclusão 2026.
