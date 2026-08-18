@@ -1,110 +1,115 @@
 ## Portifólio Emanuel Borges!
 <img src="manu.png" alt="Foto de Emanuel Borges" style="width: 200px; border-radius: 100px;">
-## 📬 Contato
+📬 Contato
 
-- 📧 Email: emanuel.eborges@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/emanuel-melo-borges](https://www.linkedin.com/in/emanuel-melo-borges/)
-- 💻 GitHub: [github.com/emanueleborges](https://github.com/emanueleborges/)
-- 💼 Credly: https://www.credly.com/users/emanuel-borges.51c0be2d/skills
-## 🔧 Habilidades Técnicas
+📄 EMANUEL MELO BORGES
+Senior Full Stack Engineer · AI & ML Specialization
 
-- **Backend:** Node.js, NestJS, PHP, Java Spring Boot, Kotlin
-- **Frontend:** React.js, Vue.js, Angular
-- **Banco de Dados:** Oracle (Trigger, functions, view, view materializada, indices, tunning ), PostgreSQL, MySQL, MongoDB
-- **DevOps / Cloud:** Docker, Kubernetes, AWS, GCP, Serverless, GitLab CI/CD
-- **Testes:** Jest, SonarQube, Test
-- **Arquitetura:** Clean Code, Clean Architecture, Microserviços
-  **Mobile:** React Native, Kotlin
+📍 Manaus, AM • 📞 +55 (92) 99977-1376
 
-## 🧠 Formação Acadêmica
-- Pós-graduação — NLP - Natural Language Processing, UFG - Goias. Conclusão 2026.
-- Pós-graduação — Machine Learning Engineering, FIAP - São Paulo. Conclusão 2026.
-- Pós-graduação — Aplicativos Móveis Multiplataforma, Descomplica. Concluido.
-- Graduação — Análise de Sistemas, FUCAPI. Concluido
+✉️ emanuel.eborges@gmail.com
 
-## 🚀 Projetos em Destaque
+🔗 linkedin.com/in/borgesemmanuell/ • github.com/emanueleborges/
 
-# Projeto - 2026 - Financial Hub - Plataforma P2P  
-Plataforma de pagamentos instantâneos tipo **Pix** com **saldo consistente** em PostgreSQL, eventos via **Kafka**, observabilidade end-to-end e UI em **Angular 19** e **Next.js 15**.
+## 🎯 RESUMO EXECUTIVO
 
-**Resumo:** Sistema fintech completo que implementa transferências P2P com validações rigorosas de saldo (constraint `CHECK (balance >= 0)` + `SELECT FOR UPDATE`), idempotência de requisições, circuit breaker, rate limiting e event sourcing via Kafka com DLQ. Backend hexagonal em **Java 17 + Spring Boot 3.2**, microsserviço de notificações com **Oracle**, dashboard Grafana, traces Zipkin, testes com **JUnit 5 + Testcontainers** (cobertura > 70%), CI/CD GitHub Actions, Kubernetes + Helm e Terraform (LocalStack).
+Engenheiro de Software Sênior com 10+ anos em arquitetura de sistemas escaláveis, metodologias ágeis e boas práticas de engenharia (TDD, BDD, Clean Architecture). Especialista em Node.js (NestJS), Java Spring Boot e React, com forte atuação em AWS e orquestração com Docker e Kubernetes.
 
-**Stack Implementada:**
-- **Backend (API):** Java 17 · Spring Boot 3.2.5 · Hexagonal/Clean Architecture · PostgreSQL 16 · Flyway · Redis · Apache Kafka · JWT + BCrypt · Resilience4j · Bucket4j · OpenPDF · Micrometer + Prometheus · Zipkin
-- **Microsserviço:** Spring Boot 3.2 · Java 17 · Oracle Free 23
-- **Frontend:** Angular 19 (TypeScript, standalone) + Next.js 15 (React 19, TypeScript)
-- **Infra:** Docker Compose · Kubernetes · Helm · Terraform (LocalStack + AWS SDK v2 S3) · GitHub Actions (CI/CD)
-- **Observabilidade:** Prometheus · Grafana · Zipkin · Logs JSON (Logstash encoder)
-- **Testes:** JUnit 5 · Mockito · Testcontainers · JaCoCo (meta 70%)
+Diferencial competitivo: Aplico Inteligência Artificial e Machine Learning como ferramentas para resolver problemas de negócio — especialmente em sistemas educacionais e de dados — sem abrir mão da excelência em engenharia de software.
 
-**Padrões & Técnicas:**
-- Spec-Driven Development (SDD) — constituição em `specs/constitution.md`
-- Saldo nunca negativo: domínio + CHECK SQL + lock pessimista
-- Transferência síncrona no banco; Kafka só para side-effects
-- Idempotência de transferência (`Idempotency-Key`) e consumidores Kafka
-- JWT stateless; CPF/CNPJ como chave pública
-- Bounded contexts: API (ledger) ≠ notification-service (inbox)
-- Health probes Actuator para K8s (liveness / readiness)
+Atuei em projetos de impacto nos setores público e privado, incluindo sistemas da Prefeitura de Manaus utilizados por centenas de servidores públicos e plataformas educacionais que atendem a instituições de ensino em toda a região Norte. Reduzi bugs em produção em 70% com práticas de qualidade automatizada.
 
-- [GitHub](https://github.com/emanueleborges/financial) - Financial Hub Repository
+## 💼 EXPERIÊNCIA PROFISSIONAL
 
-# Projeto - 2026 - NestJs Redis Kafka  
-  Products API (NestJS + TypeORM + Redis + Kafka) com Rate Limiting (Limitação de Requisições)
-- [Backend] - https://github.com/emanueleborges/nest_typeorm_postgres_redis_kafka
+## 🏢 INDT - Instituto de Desenvolvimento de Tecnologia | Manaus
+ Senior Full Stack Engineer | Abr 2023 - Presente
 
-# Projeto - 2025 - Kotlin Desktop  
-- [Backend] - https://github.com/emanueleborges/kotlin-desktop
-   
-# Projeto - 2025 - Kotlin Backend
-- [Backend] - https://github.com/emanueleborges/kotlin-backend 
+🚀 Lidero o desenvolvimento de sistemas educacionais com C++, React Native e Node.js (NestJS), atendendo a instituições de ensino em toda a região Norte.
 
-# Projeto - 2023 - Java Springboot Api Rest
-- [Backend] - https://github.com/emanueleborges/cielo2 - Backend: Java Springboot
+🧠 Atuo como referência técnica, conduzindo code reviews e definindo padrões de arquitetura.
 
-# Projeto - 2023 - React
-- [Frontend] () - https://github.com/emanueleborges/cielo2 - Frontend: React js
+⚙️ Projetei pipelines CI/CD no GitLab CI com SonarQube e testes automatizados baseados em especificações (SDD/BDD), reduzindo bugs em produção em 70%.
 
-# Projeto - 2022 - Nest js Api Rest
-- [Backend] - https://github.com/emanueleborges/desafio-nestjs - Backend: Nest js
-
-# Projeto - 2022 - Api Rest - ICCT
-- [Frontend] () - https://github.com/emanueleborges/vue-crud-api - Frontend: Vue js
-
-# Projeto Final - 2022 - Api Rest - FPF Tech 
-- [Backend] -  Node js, Sequelize, Clean Code, 
-- [Frontend] - Frontend: Angular
-- [Frontend] e [Backend] http://github.com/emanueleborges/fpftech-projetofinal
-
-# Projeto Final de Conclusão de Curso/Treinamento - 2022 - Api Rest - Eldorado Tech Training 2º edição  
-- [Backend] - Node js, Mysql, Jwt, Bcript, Sequelize
-- [Frontend] - Angular, Bootstrap 
-- [Frontend] e [Backend] https://github.com/emanueleborges/eldorado-projetofinal
-
-# [API Rest Node CRUD](https://github.com/emanueleborges/api_rest_node_mysql_crud)
-CRUD completo usando Node.js, Express e MySQL com boas práticas.
-
-### [Vue CRUD API](https://github.com/emanueleborges/vue-crud-api)
-Sistema Vue + Node com integração total e arquitetura limpa.
+📊 Implementei monitoramento com Prometheus e Grafana, estabelecendo SLAs e alertas proativos para 5 microsserviços críticos.
 
 
-## 📜 Certificações
+## 🏢 ICCT - Instituto CAL-COMP de Tecnologia | Manaus
+ Full Stack Developer Pleno | Jul 2021 - Abr 2023
 
-- [Cisco: Introduction to Cybersecurity](https://www.credly.com/users/emanuel-borges.51c0be2d)
-- Linux Foundation: Introduction to Node.js
-- Certiprof: Scrum Foundation, Remote Work, Cybersecurity Awareness
-- Fullcycle: Docker, GitOps, Kubernetes, RabbitMQ
-- Alura: TypeScript, Oracle SQL, NestJS, CI/CD, React, Vue3
+📚 Atuei na evolução de sistemas educacionais com PHP/Laravel, Node.js (NestJS) e React, atendendo a centenas de usuários ativos.
 
-The only thing standing between you and success is continuous progress. 
+🔧 Liderei a refatoração de sistema legado para Clean Architecture, reduzindo dívida técnica e tempo de deploy em 40%.
+
+👨‍🏫 Atuei como mentor de desenvolvedores juniores na adoção de boas práticas.
+
+✅ Implementei testes unitários com Jest, atingindo 60%+ de cobertura e reduzindo regressões.
 
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/emanueleborges)](https://github.com/emanueleborges)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-borges)](https://www.linkedin.com/in/emanuel-borges)
+## 🏢 Prefeitura de Manaus – SUBTI | Manaus
 
-## Sites Development by Emanuel Borges from 2015
+ Full Stack Developer Pleno | Ago 2015 - Jul 2021
 
-- [ComprasManaus](https://compras.manaus.am.gov.br/) https://compras.manaus.am.gov.br
-- [ContratosManaus](https://contratos.manaus.am.gov.br/) https://contratos.manaus.am.gov.br
+🏛️ Desenvolvi e mantive 2 sistemas críticos para a gestão municipal, utilizados por centenas de servidores públicos diariamente.
+
+🗄️ Otimizei consultas SQL em Oracle e MySQL, reduzindo tempo de resposta de relatórios de 30s para menos de 3s.
+
+🔒 Atuei na integração entre sistemas governamentais, garantindo conformidade com LGPD e segurança da informação.
+
+### 🛠️ HABILIDADES TÉCNICAS
+
+## Linguagens
+TypeScript • JavaScript • Python • Java • Kotlin • C++ • PHP • SQL
+
+## Frameworks & Bibliotecas
+Node.js (NestJS) • React • Next.js • Vue.js • Spring Boot • Django • Flask • React Native
+
+## Cloud & DevOps
+AWS (Lambda, S3, ECS, EC2) • Docker • Kubernetes • GitLab CI • GitHub Actions • Terraform • Prometheus • Grafana
+
+## Banco de Dados & Mensageria
+PostgreSQL • Oracle • MySQL • SQL Server • MongoDB • Redis • DynamoDB • RabbitMQ • Apache Kafka
+
+## Machine Learning & IA (Diferencial)
+TensorFlow • Keras • PyTorch • Scikit-Learn • NLTK • SpaCy • Transformers • Pandas • NumPy • LangChain • RAG
+
+## Arquitetura & Metodologias
+Clean Architecture • SOLID • Microservices • Event-Driven • DDD • TDD • BDD • SDD • Agile (Scrum, Kanban)
+
+### 🎓 FORMAÇÃO ACADÊMICA
+
+## Pós-graduação
+Curso	Instituição	Período	Status
+NLP (Processamento de Linguagem Natural)	UFG	2025-2026	🟢 Em andamento
+ML Engineering	FIAP	2025-2026	🟢 Em andamento
+Apps Multiplataforma	DESCOMPLICA	2024-2025	✅ Concluído
+## Graduação
+Curso	Instituição	Ano
+Bacharel em Análise de Sistemas	FUCAPI	2010
+
+### 📜 CERTIFICAÇÕES
+
+Certificação	Instituição	Ano
+Introduction to Cybersecurity	Cisco	2024
+Introduction to Node.js	Linux Foundation	2024
+Fullcycle: Docker, GitOps, Kubernetes, RabbitMQ	Fullcycle	-
+
+### 🌐 IDIOMAS
+
+Idioma	Nível
+🇧🇷 Português	Nativo
+🇪🇸 Espanhol	Avançado (B2)
+🇺🇸 Inglês	Intermediário Técnico (A2) — Leitura de documentação técnica e comunicação escrita
+
+### 📊 RESUMO DE RESULTADOS
+
+Realização	Impacto
+🐛 Redução de bugs em produção	70% (INDT)
+⚡ Redução de tempo de deploy	40% (ICCT)
+🧪 Cobertura de testes	60%+ (ICCT)
+🗄️ Otimização de consultas SQL	30s → <3s (Prefeitura)
+📌 Última atualização: Agosto 2026
+
+
 
 
 ## Skyline
